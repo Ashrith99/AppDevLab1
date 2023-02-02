@@ -1,0 +1,15 @@
+.list1{
+    margin-left: 75px;
+}
+.list2{
+    margin-left: 15px;
+}
+a{
+    color: black;
+    text-decoration-line: none;
+}
+a:hover{
+    text-decoration-line:black ;
+    color: red;
+    background-color: aqua;
+}
